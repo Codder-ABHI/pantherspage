@@ -2473,20 +2473,20 @@ pre code {
   box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
 }
 .form-control::-webkit-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
+  color: #ffffff;
+
 }
 .form-control:-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
+  color: #ffffff;
+
 }
 .form-control::-ms-input-placeholder {
-  color: #6c757d;
-  opacity: 1;
+  color: #ffffff;
+ 
 }
 .form-control::placeholder {
-  color: #6c757d;
-  opacity: 1;
+  color: #f0e4e4c5 !important;
+ 
 }
 .form-control:disabled,
 .form-control[readonly] {
@@ -26748,7 +26748,9 @@ body:not(.cursor-is--active) .widget-partners-carousel .slick-arrow {
   background-size: cover;
   background-color: #222430;
 }
-
+.input-email{
+  color: white;
+}
 .bg-fixed {
   background-attachment: fixed;
 }
