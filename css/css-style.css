@@ -47,7 +47,9 @@ html {
   -webkit-text-size-adjust: 100%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
-
+.clr{
+  color:rgb(225, 76, 248);
+}
 article,
 aside,
 figcaption,
