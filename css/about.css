@@ -4,11 +4,33 @@ body {
   background-color: #0a021d  !important  ;
   color: #ffffff  !important  ;
 }
-
+.txtt{
+margin-left: -500px !important;
+}
+.logoo{
+  position: absolute;
+  margin-left: 500px !important;
+  margin-top: -450px;
+ 
+}
+.fnd{
+  margin-top: -70px !important;
+  margin-right: 1200px !important;
+}
 .container {
   max-width: 800px  !important ;
   margin: 0 auto  !important ;
   padding: 40px  !important ;
+  display: flex  !important ;
+  align-items: center  !important ;
+  justify-content: center  !important ;
+  flex-wrap: wrap  !important ;
+}
+.containerr {
+  margin-right: 800px !important;
+  max-width: 800px  !important ;
+  margin: 0 auto  !important ;
+  padding: 40px  !important 5
   display: flex  !important ;
   align-items: center  !important ;
   justify-content: center  !important ;
@@ -26,6 +48,11 @@ margin-top: 100px !important ;
 }
 
 .about-text {
+  flex: 1 !important ;
+  text-align: left !important ;
+
+}
+.about-textt {
   flex: 1 !important ;
   text-align: left !important ;
 
