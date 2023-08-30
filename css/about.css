@@ -11,11 +11,13 @@ margin-left: -500px !important;
   position: absolute;
   margin-left: 500px !important;
   margin-top: -450px;
- 
+}
+.hed{
+  margin-right: 910px !important;
 }
 .fnd{
   margin-top: -70px !important;
-  margin-right: 1200px !important;
+  margin-right: 1280px !important;
 }
 .container {
   max-width: 800px  !important ;
