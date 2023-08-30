@@ -17,7 +17,7 @@ margin-left: -500px !important;
 }
 .fnd{
   margin-top: -70px !important;
-  margin-right: 1280px !important;
+  margin-right: 1290px !important;
 }
 .container {
   max-width: 800px  !important ;
@@ -48,7 +48,9 @@ margin-left: 100px !important ;
 margin-top: 100px !important ;
   margin-bottom: 5px !important ;
 }
-
+.abt{
+  margin-right: 830px !important;
+}
 .about-text {
   flex: 1 !important ;
   text-align: left !important ;
